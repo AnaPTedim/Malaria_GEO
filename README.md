@@ -25,7 +25,12 @@ En el caso de los demás países endémicos y para Plasmodium vivax, el análisi
 Finalmente, todos los resultados fueron integrados para producir mapas globales y tablas resumen, lo que permite evaluar la evolución de la carga de malaria tanto a nivel local como mundial.
 
 ### Estructura del Repositorio
-->Poner la estructura del repositorio cuando esté terminado
+Este repositorio está estructurado de la siguiente forma:
+1.	Un directorio principal en el que nos encontramos los archivos _README.md_, _.gitignore_ (que nos permite crear una lista de archivos que se van a ignorar) y el archivo _environment.yml_
+2.	Una carpeta de referencias en la que se adjunta el trabajo que se usa como base.
+3.	Una carpera _data_ en la que encontramos tanto una subcarpeta _raw_ con los datos brutos y una subcarpeta _processed_ con los datos limpios. 
+4.	Una carpeta _results_ en la que se encuentran los resultados de nuestra investigación. Esta está a su vez dividida en dos subcarpetas que diferencian entre resultados gráficos (_figures_) y tablas de datos (_tables_)
+5.	Una carpeta _scripts_ que contiene tanto el script encargado de descargar nuestros datos brutos como el encargado de limpiar estos datos brutos.
 
 ### Limitaciones del estudio
 Este análisis está sujeto a las siguientes limitaciones:
