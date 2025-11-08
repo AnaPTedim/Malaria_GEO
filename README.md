@@ -16,7 +16,13 @@ Los datos utilizados en este estudio provienen de fuentes públicas y registros 
 ->Introducir los datos utilizados 
 
 ### Metodología 
-->Decidir que metodología vamos a seguir
+Para los países africanos con mayor carga de malaria, comenzamos modelando la prevalencia de infección por Plasmodium falciparum en niños de 2 a 10 años mediante un enfoque geoestadístico. El modelo se alimentó con una amplia base de datos que incluía mediciones espaciotemporales de prevalencia en comunidades, variables ambientales y humanas, así como coberturas estimadas de intervenciones clave (mosquiteros impregnados con insecticida, rociado residual intradomiciliario y acceso a tratamiento antimalárico eficaz).
+
+Se añadió un módulo adicional para capturar el impacto de las interrupciones en la atención de la malaria provocadas por la pandemia de COVID-19. Los mapas de alta resolución obtenidos para el periodo 2000–2022 fueron después convertidos en estimaciones de incidencia clínica y mortalidad.
+
+En el caso de los demás países endémicos y para Plasmodium vivax, el análisis se basó en datos rutinarios de vigilancia sanitaria, a partir de los cuales se modeló la incidencia anual a escala administrativa. Posteriormente, esos valores se transformaron en prevalencia y mortalidad, y se desagregaron espacialmente para generar mapas detallados.
+
+Finalmente, todos los resultados fueron integrados para producir mapas globales y tablas resumen, lo que permite evaluar la evolución de la carga de malaria tanto a nivel local como mundial.
 
 ### Estructura del Repositorio
 ->Poner la estructura del repositorio cuando esté terminado
