@@ -28,10 +28,10 @@ Este análisis está sujeto a las siguientes limitaciones:
 3. Variables No Incluidas: El modelo no puede capturar todas las complejidades biológicas, sociales y políticas que afectan a la malaria (p. ej., resistencia a medicamentos, efectividad de los programas de control local).
 
 ### Autores del proyecto
-Autores: Alba Xiaohe Elias Rodriguez/AlbaEliasRod , Alejandro Pascual Hernandez/Alex-PH-Lau , Ana Sofia Santos Tedim Sousa Pedrosa/AnaPTedim , y Ainhoa Artetxe Izaguirre/aartetxeizaguirre_max
+Autores: Alba Xiaohe Elias Rodriguez/AlbaEliasRod , Alejandro Pascual Hernandez/Alex-PH-Lau , Ana Sofia Santos Tedim Sousa Pedrosa/AnaPTedim , y Ainhoa Artetxe Izaguirre/aartetxeizaguirre-max
 
 ### Licencia
 Este proyecto está bajo la Licencia MIT. Eres libre de usar, modificar y distribuir este código, siempre que se incluya la nota de copyright y la declaración de la licencia.
 
 ### Referencias
-- 
+1. Weiss DJ, Dzianach PA, Saddler A, Lubinda J, Browne A, McPhail M, et al. Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum and Plasmodium vivax malaria, 2000–22: a spatial and temporal modelling study. Lancet [Internet]. 2025 Mar 22 [cited 2025 Nov 8];405(10483):979. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11928297/
