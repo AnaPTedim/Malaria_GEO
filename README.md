@@ -26,7 +26,7 @@ Finalmente, todos los resultados fueron integrados para producir mapas globales 
 
 ### Estructura del Repositorio
 Este repositorio está estructurado de la siguiente forma:
-1.	Un directorio principal en el que nos encontramos los archivos _README.md_, _.gitignore_ (que nos permite crear una lista de archivos que se van a ignorar) y el archivo _environment.yml_
+1.	Un directorio principal en el que nos encontramos los archivos _README.md_, _.gitignore_ (que nos permite crear una lista de archivos que se van a ignorar), _LICENSE_ (con la licencia elegica, en este caso MIT) y el archivo _environment.yml_
 2.	Una carpeta de referencias en la que se adjunta el trabajo que se usa como base.
 3.	Una carpera _data_ en la que encontramos tanto una subcarpeta _raw_ con los datos brutos y una subcarpeta _processed_ con los datos limpios. 
 4.	Una carpeta _results_ en la que se encuentran los resultados de nuestra investigación. Esta está a su vez dividida en dos subcarpetas que diferencian entre resultados gráficos (_figures_) y tablas de datos (_tables_)
