@@ -13,7 +13,9 @@ El análisis geográfico (o geoespacial) de la malaria es fundamental porque:
 
 ### Fuentes de datos
 Los datos utilizados en este estudio provienen de fuentes públicas y registros abiertos, cubriendo un período temporal significativo para identificar tendencias.
-->Introducir los datos utilizados 
+1. 'Malaria Atlas Project': https://data.malariaatlas.org/trends?year=2024&metricGroup=Malaria&geographicLevel=admin0&metricSubcategory=Pf&metricType=rate&metricName=incidence
+2. Repositorio 'Malaria Atlas Project' en cran: https://cran.r-project.org/web/packages/malariaAtlas/index.html
+3. Repositorio 'Malaria Atlas Project' en github: https://github.com/malaria-atlas-project/malariaAtlas
 
 ### Metodología 
 Para los países africanos con mayor carga de malaria, comenzamos modelando la prevalencia de infección por Plasmodium falciparum en niños de 2 a 10 años mediante un enfoque geoestadístico. El modelo se alimentó con una amplia base de datos que incluía mediciones espaciotemporales de prevalencia en comunidades, variables ambientales y humanas, así como coberturas estimadas de intervenciones clave (mosquiteros impregnados con insecticida, rociado residual intradomiciliario y acceso a tratamiento antimalárico eficaz).
